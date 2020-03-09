@@ -6,3 +6,4 @@ I am beginner programer.
 
 * base knowledges in Swift
 * investigation criminals
+* speak in English
